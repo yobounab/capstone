@@ -25,6 +25,11 @@ h2 {
   font-size: 21px;
 }
 
+.school{
+  text-align: center;
+  font-size: 20px;
+}
+
 figure{
   display: block;
   padding-top: 30px;
