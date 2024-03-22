@@ -30,6 +30,11 @@ h2 {
   font-size: 20px;
 }
 
+.date{
+  text-align: center;
+  font-size: 15px
+}
+
 figure{
   display: block;
   padding-top: 30px;
